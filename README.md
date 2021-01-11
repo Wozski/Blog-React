@@ -7,7 +7,7 @@
 ## 截圖
 ### 首頁
 ![首頁](https://github.com/Wozski/Blog-React/blob/main/src/pic/HomePage.jpg)
-## 登入
+### 登入
 ![登入](https://github.com/Wozski/Blog-React/blob/main/src/pic/Login.jpg)
-## 文章
+### 文章
 ![文章](https://github.com/Wozski/Blog-React/blob/main/src/pic/Page.jpg)
